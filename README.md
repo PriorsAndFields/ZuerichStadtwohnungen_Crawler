@@ -3,6 +3,8 @@
 ## TL;DR
 This is a fully automated web scraper for fetching apartment listings from Zürich’s public real estate portal. Powered by **Python**, **SQLite**, and **Telegram**, it continuously monitors the latest listings, updates a local database, and fires off notifications to this dedicated Telegram channel https://t.me/ZurichStadtwohnungenNeu. Set up as a cron job, this bot runs on autopilot and is easily extendable. Open-source, highly modular, and ready for your own customizations.
 
+For more details about the source of the listings and rental guidelines, please visit the official website of the City of Zurich at www.stadt-zuerich.ch/e-vermietung.
+
 ### Why?
 Because manually refreshing a real estate site is for mere mortals.
 
